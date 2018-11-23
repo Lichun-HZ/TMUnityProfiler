@@ -1,0 +1,16 @@
+TMUnityProfiler/MSVC/Android/.vs/
+TMUnityProfiler/MSVC/Android/ARM/
+TMUnityProfiler/MSVC/Android/x86/Debug/libTMUnityProfiler.so.recipe
+TMUnityProfiler/MSVC/Android/x86/
+TMUnityProfiler/MSVC/Windows/.vs/
+TMUnityProfiler/MSVC/Windows/x64/
+UnityProject/TMUnityProfiler/.vs/TMUnityProfiler/v15/.suo
+UnityProject/TMUnityProfiler/.vs/
+UnityProject/TMUnityProfiler/Assets/standardAssets/
+UnityProject/TMUnityProfiler/Library/
+UnityProject/TMUnityProfiler/obj/
+UnityProject/TMUnityProfiler/Assets/UGF/
+UnityProject/TMUnityProfiler/TMUnityProfiler-0.1-v1.symbols.zip
+UnityProject/TMUnityProfiler/UnityGameFramework.Runtime.csproj
+UnityProject/TMUnityProfiler/UnityGameFramework.Editor.csproj
+UnityProject/TMUnityProfiler/TMUnityProfiler.apk
